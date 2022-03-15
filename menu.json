@@ -256,5 +256,308 @@
         "salt": "1.4"
       }
     ]
+  },
+  {
+    "category": "Картофель и стартеры",
+    "list": [
+      {
+        "name": "Тирольский картофель МакФлэйвор Фрайз",
+        "url": "https://mcdonalds-a.akamaihd.net/product/bcf811a547a24baba21be0b3e82ece2c/android/l/main.png",
+        "weight": "150",
+        "kilocalories": "500",
+        "fats": "32",
+        "saturatedFats": "4.5",
+        "carbohydrates": "46",
+        "proteins": "4.6",
+        "sugar": "3.1",
+        "cellulose": "4.3",
+        "salt": "1.1"
+      },
+      {
+        "name": "Тирольский картофель МакФлэйвор Фрайз по-деревенски",
+        "url": "https://mcdonalds-a.akamaihd.net/product/077b5dd7e3d1433a880b6418413c4896/android/l/main.png",
+        "weight": "205",
+        "kilocalories": "512",
+        "fats": "32",
+        "saturatedFats": "4.6",
+        "carbohydrates": "48",
+        "proteins": "5.5",
+        "sugar": "3.2",
+        "cellulose": "5.3",
+        "salt": "2"
+      },
+      {
+        "name": "Большой Снэк Бокс с Крыльями",
+        "url": "https://mcdonalds-a.akamaihd.net/product/252ff8f71b134234af66dba2908a7cc1/android/l/main.png",
+        "weight": "608",
+        "kilocalories": "1901",
+        "fats": "112",
+        "carbohydrates": "149",
+        "proteins": "69"
+      },
+      {
+        "name": "Большой Снэк Бокс со Стрипсами",
+        "url": "https://mcdonalds-a.akamaihd.net/product/0ea03866afd14a4784afd6b721688e64/android/l/main.png",
+        "weight": "568",
+        "kilocalories": "1705",
+        "fats": "93",
+        "carbohydrates": "155",
+        "proteins": "58"
+      },
+      {
+        "name": "Куриные крылышки (3 шт.)",
+        "url": "https://mcdonalds-a.akamaihd.net/product/e20b4ebeb2114b5685157fe6c0733223/android/l/main.png",
+        "weight": "150",
+        "kilocalories": "417",
+        "fats": "27",
+        "carbohydrates": "18",
+        "proteins": "26"
+      },
+      {
+        "name": "Куриные крылышки (5 шт.)",
+        "url": "https://mcdonalds-a.akamaihd.net/product/4fd6cc8425ec46848d4e64d3b5abec0d/android/l/main.png",
+        "weight": "250",
+        "kilocalories": "695",
+        "fats": "27",
+        "carbohydrates": "30",
+        "proteins": "43"
+      },
+      {
+        "name": "Куриные крылышки (7 шт.)",
+        "url": "https://mcdonalds-a.akamaihd.net/product/7550c10e3bb84fb1ac63127a5ec10a92/android/l/main.png",
+        "weight": "350",
+        "kilocalories": "973",
+        "fats": "63",
+        "carbohydrates": "42",
+        "proteins": "60"
+      },
+      {
+        "name": "Снэк Бокс с крыльями",
+        "url": "https://mcdonalds-a.akamaihd.net/product/38a4df192cba4c53b3253825a090ea5d/android/l/main.png",
+        "weight": "326",
+        "kilocalories": "866",
+        "fats": "46",
+        "carbohydrates": "73",
+        "proteins": "38"
+      },
+      {
+        "name": "Сырные палочки 3 шт.",
+        "url": "https://mcdonalds-a.akamaihd.net/product/865dc33bdc4941aeb76ec2efaaaf64cc/android/l/main.png",
+        "weight": "87",
+        "kilocalories": "397",
+        "fats": "28",
+        "carbohydrates": "24",
+        "proteins": "12"
+      },
+      {
+        "name": "Снэк Бокс",
+        "url": "https://mcdonalds-a.akamaihd.net/product/c8bddecfe31c4aa98c3668c9b28c36ce/android/l/main.png",
+        "weight": "210",
+        "kilocalories": "535",
+        "fats": "26",
+        "saturatedFats": "3",
+        "carbohydrates": "52",
+        "proteins": "22",
+        "sugar": "1.6",
+        "cellulose": "3.5",
+        "salt": "2.1"
+      },
+      {
+        "name": "Стрипсы (3 шт.)",
+        "url": "https://mcdonalds-a.akamaihd.net/product/cc97e5a8223640d6ae47950e8f968011/android/l/main.png",
+        "weight": "120",
+        "kilocalories": "270",
+        "fats": "12",
+        "saturatedFats": "1.8",
+        "carbohydrates": "23",
+        "proteins": "17",
+        "sugar": "1.8",
+        "cellulose": "0.2",
+        "salt": "1.7"
+      },
+      {
+        "name": "Стрипсы (5 шт.)",
+        "url": "https://mcdonalds-a.akamaihd.net/product/a86d24f9f9e246a88ec8dd343858bda7/android/l/main.png",
+        "weight": "200",
+        "kilocalories": "450",
+        "fats": "21",
+        "saturatedFats": "3",
+        "carbohydrates": "38",
+        "proteins": "28",
+        "sugar": "3",
+        "cellulose": "0.4",
+        "salt": "2.8"
+      },
+      {
+        "name": "Стрипсы (7 шт.)",
+        "url": "https://mcdonalds-a.akamaihd.net/product/ca1d80975c324adfb5019e5606b35eee/android/l/main.png",
+        "weight": "280",
+        "kilocalories": "630",
+        "fats": "29",
+        "saturatedFats": "4.3",
+        "carbohydrates": "60",
+        "proteins": "39",
+        "sugar": "4.2",
+        "cellulose": "0.6",
+        "salt": "3.9"
+      },
+      {
+        "name": "Чикен Макнаггетс (4 шт.)",
+        "url": "https://mcdonalds-a.akamaihd.net/product/cef1651064034cadb19739f3eb0099f2/android/l/main.png",
+        "weight": "72",
+        "kilocalories": "179",
+        "fats": "9.1",
+        "saturatedFats": "1.1",
+        "carbohydrates": "12",
+        "proteins": "11",
+        "sugar": "0.3",
+        "cellulose": "0.9",
+        "salt": "0.9"
+      },
+      {
+        "name": "Чикен Макнаггетс (6 шт.)",
+        "url": "https://mcdonalds-a.akamaihd.net/product/a343a1f92cde42e6963dafaf418d1bd9/android/l/main.png",
+        "weight": "108",
+        "kilocalories": "268",
+        "fats": "14",
+        "saturatedFats": "1.7",
+        "carbohydrates": "19",
+        "proteins": "17",
+        "sugar": "0.4",
+        "cellulose": "1.4",
+        "salt": "1.3"
+      },
+      {
+        "name": "Чикен Макнаггетс (9 шт.)",
+        "url": "https://mcdonalds-a.akamaihd.net/product/f34ef3a8a8c742688ce3b43f3b4516ec/android/l/main.png",
+        "weight": "162",
+        "kilocalories": "402",
+        "fats": "21",
+        "saturatedFats": "2.5",
+        "carbohydrates": "28",
+        "proteins": "25",
+        "sugar": "0.6",
+        "cellulose": "2.1",
+        "salt": "1.9"
+      },
+      {
+        "name": "Чикен Макнаггетс (18 шт.)",
+        "url": "https://mcdonalds-a.akamaihd.net/product/5fec55777f604c86ae9f04f2aaed415b/android/l/main.png",
+        "weight": "324",
+        "kilocalories": "804",
+        "fats": "42",
+        "saturatedFats": "5",
+        "carbohydrates": "56",
+        "proteins": "50",
+        "sugar": "1.3",
+        "cellulose": "4.2",
+        "salt": "3.8"
+      },
+      {
+        "name": "Наггетс Бокс",
+        "url": "https://mcdonalds-a.akamaihd.net/product/d654766dd95144fbb9edd01f07470b58/android/l/main.png",
+        "weight": "166",
+        "kilocalories": "456",
+        "fats": "22",
+        "saturatedFats": "2.4",
+        "carbohydrates": "45",
+        "proteins": "17",
+        "sugar": "0.6",
+        "cellulose": "4",
+        "salt": "1.4"
+      },
+      {
+        "name": "Большие Креветки (4 шт.)",
+        "url": "https://mcdonalds-a.akamaihd.net/product/8e0fceda2c91494db145e0911e975342/android/l/main.png",
+        "weight": "72",
+        "kilocalories": "180",
+        "fats": "9",
+        "carbohydrates": "15",
+        "proteins": "9.9"
+      },
+      {
+        "name": "Большие Креветки (6 шт.)",
+        "url": "https://mcdonalds-a.akamaihd.net/product/a36b42645f5343dc9a07914a9d98d149/android/l/main.png",
+        "weight": "108",
+        "kilocalories": "271",
+        "fats": "14",
+        "carbohydrates": "22",
+        "proteins": "15"
+      },
+      {
+        "name": "Большие Креветки (9 шт.)",
+        "url": "https://mcdonalds-a.akamaihd.net/product/4a45a543fc2d4fa0905b731229d90725/android/l/main.png",
+        "weight": "162",
+        "kilocalories": "406",
+        "fats": "20",
+        "carbohydrates": "34",
+        "proteins": "22"
+      },
+      {
+        "name": "Картофель Фри Маленький",
+        "url": "https://mcdonalds-a.akamaihd.net/product/25b592c6b27342c988dbf86d1425a1e0/android/l/main.png",
+        "weight": "76",
+        "kilocalories": "231",
+        "fats": "11",
+        "saturatedFats": "1",
+        "carbohydrates": "29",
+        "proteins": "2.8",
+        "sugar": "0.3",
+        "cellulose": "2.8",
+        "salt": "0.4"
+      },
+      {
+        "name": "Картофель Фри Средний",
+        "url": "https://mcdonalds-a.akamaihd.net/product/4bf1d8d3ee5a4b40ad3336b9811c43a1/android/l/main.png",
+        "weight": "110",
+        "kilocalories": "330",
+        "fats": "16",
+        "saturatedFats": "1.5",
+        "carbohydrates": "41",
+        "proteins": "3.9",
+        "sugar": "0.4",
+        "cellulose": "3.9",
+        "salt": "0.5"
+      },
+      {
+        "name": "Картофель Фри Большой",
+        "url": "https://mcdonalds-a.akamaihd.net/product/c68f3cb448d0475082766c55ed505854/android/l/main.png",
+        "weight": "434",
+        "kilocalories": "330",
+        "fats": "21",
+        "saturatedFats": "2",
+        "carbohydrates": "54",
+        "proteins": "5.2",
+        "sugar": "0.5",
+        "cellulose": "5.3",
+        "salt": "0.7"
+      },
+      {
+        "name": "Картофель по-деревенски Средний",
+        "url": "https://mcdonalds-a.akamaihd.net/product/941a425ee4a1485a91dd1dbb04792c5a/android/l/main.png",
+        "weight": "165",
+        "kilocalories": "321",
+        "fats": "15",
+        "saturatedFats": "1.5",
+        "carbohydrates": "42",
+        "proteins": "4.6",
+        "sugar": "0.5",
+        "cellulose": "4.8",
+        "salt": "1.4"
+      },
+      {
+        "name": "Картофель по-деревенски Большой",
+        "url": "https://mcdonalds-a.akamaihd.net/product/cf3ce16f4f4d4d4f8aecc277b57e84ff/android/l/main.png",
+        "weight": "220",
+        "kilocalories": "441",
+        "fats": "20",
+        "saturatedFats": "2",
+        "carbohydrates": "57",
+        "proteins": "6.2",
+        "sugar": "0.7",
+        "cellulose": "6.4",
+        "salt": "1.8"
+      }
+    ]
   }
 ]
