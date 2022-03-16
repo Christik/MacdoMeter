@@ -3,6 +3,7 @@
     "category": "Бургеры",
     "list": [
       {
+        "id": "0",
         "name": "Макчикен Острый",
         "url": "https://mcdonalds-a.akamaihd.net/product/fb38bff850cb4e72ac48832b228e7bb5/android/l/main.png",
         "weight": "197",
@@ -12,6 +13,7 @@
         "proteins": "21"
       },
       {
+        "id": "1",
         "name": "Макчикен Премьер Острый",
         "url": "https://mcdonalds-a.akamaihd.net/product/6c5da1f990b84871b8c231f73d57706d/android/l/main.png",
         "weight": "248",
@@ -21,6 +23,7 @@
         "proteins": "26"
       },
       {
+        "id": "2",
         "name": "Биг Тейсти Три Сыра",
         "url": "https://mcdonalds-a.akamaihd.net/product/25586e5e59c84041bc25977917c53605/android/l/main.png",
         "weight": "357",
@@ -30,6 +33,7 @@
         "proteins": "48"
       },
       {
+        "id": "3",
         "name": "Монблан Бургер",
         "url": "https://mcdonalds-a.akamaihd.net/product/99834f290f514800b425db560f84ae6d/android/l/main.png",
         "weight": "262",
@@ -39,6 +43,7 @@
         "proteins": "35"
       },
       {
+        "id": "4",
         "name": "Монблан Бургер с курицей",
         "url": "https://mcdonalds-a.akamaihd.net/product/5fce1e4dea0e44279559288ee9862edd/android/l/main.png",
         "weight": "268",
@@ -48,6 +53,7 @@
         "proteins": "31"
       },
       {
+        "id": "5",
         "name": "Двойной Биг Тейсти",
         "url": "https://mcdonalds-a.akamaihd.net/product/c7f40d92f15b4d50809ea5bfd68a3fe6/android/l/main.png",
         "weight": "450",
@@ -61,6 +67,7 @@
         "salt": "4.2"
       },
       {
+        "id": "6",
         "name": "Биг Тейсти Джуниор",
         "url": "https://mcdonalds-a.akamaihd.net/product/ebe1c94e78f74714a8a6c0a980a2232a/android/l/main.png",
         "weight": "231",
@@ -74,6 +81,7 @@
         "salt": "2.5"
       },
       {
+        "id": "7",
         "name": "Двойной Биг Мак",
         "url": "https://mcdonalds-a.akamaihd.net/product/5b654609db2d429f8f7421c6fc2bd01c/android/l/main.png",
         "weight": "305",
@@ -87,6 +95,7 @@
         "salt": "2.8"
       },
       {
+        "id": "8",
         "name": "Биг Мак",
         "url": "https://mcdonalds-a.akamaihd.net/product/d24dbf2ff3604a3bbbb74380cee6729c/android/l/main.png",
         "weight": "230",
@@ -100,6 +109,7 @@
         "salt": "2.3"
       },
       {
+        "id": "9",
         "name": "Биг Тейсти",
         "url": "https://mcdonalds-a.akamaihd.net/product/8634d2f776974f59b1321cbde17f5b0f/android/l/main.png",
         "weight": "340",
@@ -113,6 +123,7 @@
         "salt": "3.7"
       },
       {
+        "id": "10",
         "name": "Роял Де Люкс",
         "url": "https://mcdonalds-a.akamaihd.net/product/9feb79c950294ae78d8693fbecb184a2/android/l/main.png",
         "weight": "251",
@@ -126,6 +137,7 @@
         "salt": "2.8"
       },
       {
+        "id": "11",
         "name": "Двойной Роял",
         "url": "https://mcdonalds-a.akamaihd.net/product/b1b0c201b4eb4eb5908cd96c452dfaa5/android/l/main.png",
         "weight": "282",
@@ -139,6 +151,7 @@
         "salt": "2"
       },
       {
+        "id": "12",
         "name": "Роял",
         "url": "https://mcdonalds-a.akamaihd.net/product/0bb39b552105482c923e49d8811572db/android/l/main.png",
         "weight": "202",
@@ -152,6 +165,7 @@
         "salt": "2.5"
       },
       {
+        "id": "13",
         "name": "Двойной Чизбургер",
         "url": "https://mcdonalds-a.akamaihd.net/product/bf43a4eaf72b4381b85164733460a4a5/android/l/main.png",
         "weight": "173",
@@ -165,6 +179,7 @@
         "salt": "2"
       },
       {
+        "id": "14",
         "name": "Чизбургер",
         "url": "https://mcdonalds-a.akamaihd.net/product/f4de5ec867af41a3896019701eb18820/android/l/main.png",
         "weight": "117",
@@ -178,6 +193,7 @@
         "salt": "1.6"
       },
       {
+        "id": "15",
         "name": "Гамбургер",
         "url": "https://mcdonalds-a.akamaihd.net/product/651e98ed7cc14a6e8950a97ef452c269/android/l/main.png",
         "weight": "103",
@@ -191,6 +207,7 @@
         "salt": "1.1"
       },
       {
+        "id": "16",
         "name": "Макчикен Премьер",
         "url": "https://mcdonalds-a.akamaihd.net/product/2afe09c101e141bc8f988518ba6db1b2/android/l/main.png",
         "weight": "234",
@@ -204,6 +221,7 @@
         "salt": "2.9"
       },
       {
+        "id": "17",
         "name": "Макчикен",
         "url": "https://mcdonalds-a.akamaihd.net/product/3110ee5aac844a6895bb0bcd7e1460cc/android/l/main.png",
         "weight": "198",
@@ -217,6 +235,7 @@
         "salt": "2.3"
       },
       {
+        "id": "18",
         "name": "Чикенбургер",
         "url": "https://mcdonalds-a.akamaihd.net/product/4021044a1b304e179e98bb69a210c80c/android/l/main.png",
         "weight": "129",
@@ -230,6 +249,7 @@
         "salt": "1.3"
       },
       {
+        "id": "19",
         "name": "Двойной Филе-О-Фиш",
         "url": "https://mcdonalds-a.akamaihd.net/product/6389b9731dec4abcb5bcee285b089aed/android/l/main.png",
         "weight": "194",
@@ -243,6 +263,7 @@
         "salt": "2"
       },
       {
+        "id": "20",
         "name": "Филе-О-Фиш",
         "url": "https://mcdonalds-a.akamaihd.net/product/1224fc3181fd4d7a96a244eb8b58e91f/android/l/main.png",
         "weight": "133",
@@ -261,6 +282,7 @@
     "category": "Картофель и стартеры",
     "list": [
       {
+        "id": "21",
         "name": "Тирольский картофель МакФлэйвор Фрайз",
         "url": "https://mcdonalds-a.akamaihd.net/product/bcf811a547a24baba21be0b3e82ece2c/android/l/main.png",
         "weight": "150",
@@ -274,6 +296,7 @@
         "salt": "1.1"
       },
       {
+        "id": "22",
         "name": "Тирольский картофель МакФлэйвор Фрайз по-деревенски",
         "url": "https://mcdonalds-a.akamaihd.net/product/077b5dd7e3d1433a880b6418413c4896/android/l/main.png",
         "weight": "205",
@@ -287,6 +310,7 @@
         "salt": "2"
       },
       {
+        "id": "23",
         "name": "Большой Снэк Бокс с Крыльями",
         "url": "https://mcdonalds-a.akamaihd.net/product/252ff8f71b134234af66dba2908a7cc1/android/l/main.png",
         "weight": "608",
@@ -296,6 +320,7 @@
         "proteins": "69"
       },
       {
+        "id": "24",
         "name": "Большой Снэк Бокс со Стрипсами",
         "url": "https://mcdonalds-a.akamaihd.net/product/0ea03866afd14a4784afd6b721688e64/android/l/main.png",
         "weight": "568",
@@ -305,6 +330,7 @@
         "proteins": "58"
       },
       {
+        "id": "25",
         "name": "Куриные крылышки (3 шт.)",
         "url": "https://mcdonalds-a.akamaihd.net/product/e20b4ebeb2114b5685157fe6c0733223/android/l/main.png",
         "weight": "150",
@@ -314,6 +340,7 @@
         "proteins": "26"
       },
       {
+        "id": "26",
         "name": "Куриные крылышки (5 шт.)",
         "url": "https://mcdonalds-a.akamaihd.net/product/4fd6cc8425ec46848d4e64d3b5abec0d/android/l/main.png",
         "weight": "250",
@@ -323,6 +350,7 @@
         "proteins": "43"
       },
       {
+        "id": "27",
         "name": "Куриные крылышки (7 шт.)",
         "url": "https://mcdonalds-a.akamaihd.net/product/7550c10e3bb84fb1ac63127a5ec10a92/android/l/main.png",
         "weight": "350",
@@ -332,6 +360,7 @@
         "proteins": "60"
       },
       {
+        "id": "28",
         "name": "Снэк Бокс с крыльями",
         "url": "https://mcdonalds-a.akamaihd.net/product/38a4df192cba4c53b3253825a090ea5d/android/l/main.png",
         "weight": "326",
@@ -341,6 +370,7 @@
         "proteins": "38"
       },
       {
+        "id": "29",
         "name": "Сырные палочки 3 шт.",
         "url": "https://mcdonalds-a.akamaihd.net/product/865dc33bdc4941aeb76ec2efaaaf64cc/android/l/main.png",
         "weight": "87",
@@ -350,6 +380,7 @@
         "proteins": "12"
       },
       {
+        "id": "30",
         "name": "Снэк Бокс",
         "url": "https://mcdonalds-a.akamaihd.net/product/c8bddecfe31c4aa98c3668c9b28c36ce/android/l/main.png",
         "weight": "210",
@@ -363,6 +394,7 @@
         "salt": "2.1"
       },
       {
+        "id": "31",
         "name": "Стрипсы (3 шт.)",
         "url": "https://mcdonalds-a.akamaihd.net/product/cc97e5a8223640d6ae47950e8f968011/android/l/main.png",
         "weight": "120",
@@ -376,6 +408,7 @@
         "salt": "1.7"
       },
       {
+        "id": "32",
         "name": "Стрипсы (5 шт.)",
         "url": "https://mcdonalds-a.akamaihd.net/product/a86d24f9f9e246a88ec8dd343858bda7/android/l/main.png",
         "weight": "200",
@@ -389,6 +422,7 @@
         "salt": "2.8"
       },
       {
+        "id": "33",
         "name": "Стрипсы (7 шт.)",
         "url": "https://mcdonalds-a.akamaihd.net/product/ca1d80975c324adfb5019e5606b35eee/android/l/main.png",
         "weight": "280",
@@ -402,6 +436,7 @@
         "salt": "3.9"
       },
       {
+        "id": "34",
         "name": "Чикен Макнаггетс (4 шт.)",
         "url": "https://mcdonalds-a.akamaihd.net/product/cef1651064034cadb19739f3eb0099f2/android/l/main.png",
         "weight": "72",
@@ -415,6 +450,7 @@
         "salt": "0.9"
       },
       {
+        "id": "35",
         "name": "Чикен Макнаггетс (6 шт.)",
         "url": "https://mcdonalds-a.akamaihd.net/product/a343a1f92cde42e6963dafaf418d1bd9/android/l/main.png",
         "weight": "108",
@@ -428,6 +464,7 @@
         "salt": "1.3"
       },
       {
+        "id": "36",
         "name": "Чикен Макнаггетс (9 шт.)",
         "url": "https://mcdonalds-a.akamaihd.net/product/f34ef3a8a8c742688ce3b43f3b4516ec/android/l/main.png",
         "weight": "162",
@@ -441,6 +478,7 @@
         "salt": "1.9"
       },
       {
+        "id": "37",
         "name": "Чикен Макнаггетс (18 шт.)",
         "url": "https://mcdonalds-a.akamaihd.net/product/5fec55777f604c86ae9f04f2aaed415b/android/l/main.png",
         "weight": "324",
@@ -454,6 +492,7 @@
         "salt": "3.8"
       },
       {
+        "id": "38",
         "name": "Наггетс Бокс",
         "url": "https://mcdonalds-a.akamaihd.net/product/d654766dd95144fbb9edd01f07470b58/android/l/main.png",
         "weight": "166",
@@ -467,6 +506,7 @@
         "salt": "1.4"
       },
       {
+        "id": "39",
         "name": "Большие Креветки (4 шт.)",
         "url": "https://mcdonalds-a.akamaihd.net/product/8e0fceda2c91494db145e0911e975342/android/l/main.png",
         "weight": "72",
@@ -476,6 +516,7 @@
         "proteins": "9.9"
       },
       {
+        "id": "40",
         "name": "Большие Креветки (6 шт.)",
         "url": "https://mcdonalds-a.akamaihd.net/product/a36b42645f5343dc9a07914a9d98d149/android/l/main.png",
         "weight": "108",
@@ -485,6 +526,7 @@
         "proteins": "15"
       },
       {
+        "id": "41",
         "name": "Большие Креветки (9 шт.)",
         "url": "https://mcdonalds-a.akamaihd.net/product/4a45a543fc2d4fa0905b731229d90725/android/l/main.png",
         "weight": "162",
@@ -494,6 +536,7 @@
         "proteins": "22"
       },
       {
+        "id": "42",
         "name": "Картофель Фри Маленький",
         "url": "https://mcdonalds-a.akamaihd.net/product/25b592c6b27342c988dbf86d1425a1e0/android/l/main.png",
         "weight": "76",
@@ -507,6 +550,7 @@
         "salt": "0.4"
       },
       {
+        "id": "43",
         "name": "Картофель Фри Средний",
         "url": "https://mcdonalds-a.akamaihd.net/product/4bf1d8d3ee5a4b40ad3336b9811c43a1/android/l/main.png",
         "weight": "110",
@@ -520,6 +564,7 @@
         "salt": "0.5"
       },
       {
+        "id": "44",
         "name": "Картофель Фри Большой",
         "url": "https://mcdonalds-a.akamaihd.net/product/c68f3cb448d0475082766c55ed505854/android/l/main.png",
         "weight": "434",
@@ -533,6 +578,7 @@
         "salt": "0.7"
       },
       {
+        "id": "45",
         "name": "Картофель по-деревенски Средний",
         "url": "https://mcdonalds-a.akamaihd.net/product/941a425ee4a1485a91dd1dbb04792c5a/android/l/main.png",
         "weight": "165",
@@ -546,6 +592,7 @@
         "salt": "1.4"
       },
       {
+        "id": "46",
         "name": "Картофель по-деревенски Большой",
         "url": "https://mcdonalds-a.akamaihd.net/product/cf3ce16f4f4d4d4f8aecc277b57e84ff/android/l/main.png",
         "weight": "220",
