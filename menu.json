@@ -667,12 +667,8 @@
     "weight": "146",
     "kilocalories": "186",
     "fats": "9.7",
-    "saturatedFats": "-",
     "carbohydrates": "13",
-    "proteins": "11",
-    "sugar": "-",
-    "cellulose": "-",
-    "salt": "-"
+    "proteins": "11"
   },
   {
     "id": "49",
@@ -697,26 +693,20 @@
     "weight": "217",
     "kilocalories": "500",
     "fats": "25",
-    "saturatedFats": "-",
     "carbohydrates": "48",
-    "proteins": "21",
-    "sugar": "-",
-    "cellulose": "-",
-    "salt": "-"
+    "proteins": "21"
   },
   {
     "id": "51",
     "category": "Роллы",
     "name": "Биг Тейсти Ролл",
     "url": "https://mcdonalds-a.akamaihd.net/product/d8ce2e42a77341aaba4c5019bac0a595/android/l/main.png",
-    "weight": "-",
     "kilocalories": "521",
     "fats": "30",
     "saturatedFats": "30",
     "carbohydrates": "36",
     "proteins": "26",
     "sugar": "3",
-    "cellulose": "-",
     "salt": "2"
   },
   {
@@ -727,12 +717,8 @@
     "weight": "211",
     "kilocalories": "472",
     "fats": "22",
-    "saturatedFats": "-",
     "carbohydrates": "48",
-    "proteins": "19",
-    "sugar": "-",
-    "cellulose": "-",
-    "salt": "-"
+    "proteins": "19"
   },
   {
     "id": "53",
@@ -742,19 +728,14 @@
     "weight": "171",
     "kilocalories": "412",
     "fats": "18",
-    "saturatedFats": "-",
     "carbohydrates": "48",
-    "proteins": "15",
-    "sugar": "-",
-    "cellulose": "-",
-    "salt": "-"
+    "proteins": "15"
   },
   {
     "id": "54",
     "category": "Коктейли",
     "name": "Молочный Коктейль Шоколадный Маленький",
     "url": "https://mcdonalds-a.akamaihd.net/product/00a184dcdbbd4685827861b417dfb6a1/android/l/main.png",
-    "weight": "-",
     "volume": "0.3",
     "kilocalories": "247",
     "fats": "5",
@@ -770,7 +751,6 @@
     "category": "Коктейли",
     "name": "Молочный Коктейль Шоколадный Средний",
     "url": "https://mcdonalds-a.akamaihd.net/product/6f6c32339bd44ab888e962723438e55a/android/l/main.png",
-    "weight": "-",
     "volume": "0.47",
     "kilocalories": "386",
     "fats": "7.9",
@@ -786,7 +766,6 @@
     "category": "Коктейли",
     "name": "Молочный Коктейль Шоколадный Большой",
     "url": "https://mcdonalds-a.akamaihd.net/product/bcfea42b081144c3aab07c9731b87674/android/l/main.png",
-    "weight": "-",
     "volume": "0.6",
     "kilocalories": "493",
     "fats": "10",
@@ -802,7 +781,6 @@
     "category": "Коктейли",
     "name": "Молочный Коктейль Клубничный Маленький",
     "url": "https://mcdonalds-a.akamaihd.net/product/19bd2955fc084305bfd222b925e479ee/android/l/main.png",
-    "weight": "-",
     "volume": "0.3",
     "kilocalories": "244",
     "fats": "4.6",
@@ -810,7 +788,6 @@
     "carbohydrates": "45",
     "proteins": "6.1",
     "sugar": "41",
-    "cellulose": "-",
     "salt": "0.2"
   },
   {
@@ -818,7 +795,6 @@
     "category": "Коктейли",
     "name": "Молочный Коктейль Клубничный Средний",
     "url": "https://mcdonalds-a.akamaihd.net/product/12a034c2cf644a5d804a8d2e65fc564e/android/l/main.png",
-    "weight": "-",
     "volume": "0.47",
     "kilocalories": "382",
     "fats": "7.2",
@@ -826,7 +802,6 @@
     "carbohydrates": "70",
     "proteins": "9.6",
     "sugar": "64",
-    "cellulose": "-",
     "salt": "0.3"
   },
   {
@@ -834,7 +809,6 @@
     "category": "Коктейли",
     "name": "Молочный Коктейль Клубничный Большой",
     "url": "https://mcdonalds-a.akamaihd.net/product/259d329ae7a54c099046e5c672acdcce/android/l/main.png",
-    "weight": "-",
     "volume": "0.6",
     "kilocalories": "488",
     "fats": "9.1",
@@ -842,7 +816,6 @@
     "carbohydrates": "89",
     "proteins": "12",
     "sugar": "81",
-    "cellulose": "-",
     "salt": "0.4"
   },
   {
@@ -850,7 +823,6 @@
     "category": "Коктейли",
     "name": "Молочный Коктейль Ванильный Маленький",
     "url": "https://mcdonalds-a.akamaihd.net/product/6a00f8091e0d473589b09a9197227069/android/l/main.png",
-    "weight": "-",
     "volume": "0.3",
     "kilocalories": "244",
     "fats": "4.6",
@@ -858,7 +830,6 @@
     "carbohydrates": "45",
     "proteins": "6.1",
     "sugar": "40",
-    "cellulose": "-",
     "salt": "0.2"
   },
   {
@@ -866,7 +837,6 @@
     "category": "Коктейли",
     "name": "Молочный Коктейль Ванильный Средний",
     "url": "https://mcdonalds-a.akamaihd.net/product/718b6fc6057942228045166cbf766b9b/android/l/main.png",
-    "weight": "-",
     "volume": "0.47",
     "kilocalories": "383",
     "fats": "7.2",
@@ -874,7 +844,6 @@
     "carbohydrates": "45",
     "proteins": "9.5",
     "sugar": "63",
-    "cellulose": "-",
     "salt": "0.3"
   },
   {
@@ -882,7 +851,6 @@
     "category": "Коктейли",
     "name": "Молочный Коктейль Ванильный Большой",
     "url": "https://mcdonalds-a.akamaihd.net/product/ffc0512b803c448ca72b302606805cf7/android/l/main.png",
-    "weight": "-",
     "volume": "0.6",
     "kilocalories": "489",
     "fats": "9.2",
@@ -890,7 +858,6 @@
     "carbohydrates": "89",
     "proteins": "12",
     "sugar": "80",
-    "cellulose": "-",
     "salt": "0.4"
   },
   {
@@ -920,7 +887,6 @@
     "carbohydrates": "32",
     "proteins": "2.8",
     "sugar": "12",
-    "cellulose": "-",
     "salt": "0.5"
   },
   {
@@ -946,12 +912,8 @@
     "weight": "75",
     "kilocalories": "372",
     "fats": "23",
-    "saturatedFats": "-",
     "carbohydrates": "36",
-    "proteins": "3.9",
-    "sugar": "-",
-    "cellulose": "-",
-    "salt": "-"
+    "proteins": "3.9"
   },
   {
     "id": "67",
@@ -961,12 +923,8 @@
     "weight": "98",
     "kilocalories": "164",
     "fats": "3.6",
-    "saturatedFats": "-",
     "carbohydrates": "29",
-    "proteins": "3.8",
-    "sugar": "-",
-    "cellulose": "-",
-    "salt": "-"
+    "proteins": "3.8"
   },
   {
     "id": "68",
@@ -976,12 +934,8 @@
     "weight": "206",
     "kilocalories": "356",
     "fats": "9.8",
-    "saturatedFats": "-",
     "carbohydrates": "60",
-    "proteins": "6.3",
-    "sugar": "-",
-    "cellulose": "-",
-    "salt": "-"
+    "proteins": "6.3"
   },
   {
     "id": "69",
